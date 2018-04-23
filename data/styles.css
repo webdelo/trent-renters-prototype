@@ -9,7 +9,13 @@
 }
 .box_1 {
 }
+.box_2 {
+}
+.box_3 {
+}
 .image {
+}
+.button {
 }
 .link_button {
   color:#169BD5;
@@ -61,6 +67,10 @@
 .line {
 }
 .text_field {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
   color:#000000;
   text-align:left;
 }
