@@ -17,6 +17,9 @@
 }
 .button {
 }
+.primary_button {
+  color:#FFFFFF;
+}
 .link_button {
   color:#169BD5;
 }
@@ -61,12 +64,20 @@
   font-size:10px;
   text-align:left;
 }
+.label {
+  font-size:14px;
+  text-align:left;
+}
 .paragraph {
   text-align:left;
 }
 .line {
 }
 .text_field {
+  color:#000000;
+  text-align:left;
+}
+.text_area {
   color:#000000;
   text-align:left;
 }
@@ -81,6 +92,8 @@
 }
 .html_button {
   text-align:center;
+}
+.table_cell {
 }
 .icon {
 }
